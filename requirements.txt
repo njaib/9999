@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+feedparser
+requests
+deep-translator
+pycountry
+flag
